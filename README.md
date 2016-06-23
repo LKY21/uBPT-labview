@@ -1,2 +1,2 @@
 # uBPT-labview
-Labview interface programs for interfacing with the uBPT
+Labview interface programs for interfacing with the uBPT. 
